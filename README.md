@@ -40,7 +40,9 @@ git clone https://github.com/INDOnimous/INDOcDeFace
 cd INDOcDeFace 
 python2 INDOcDeface.py
 ```
-.[YouTube SubsCribe].(https://www.youtube.com/channel/UCE4zyxHlZP2cykLzDdvFzhQ)
+[YouTube SubsCribe](https://www.youtube.com/channel/UCE4zyxHlZP2cykLzDdvFzhQ)
+--
 ## Thank you for using this tools...
 ### By INDOnimous
+__
 # Please do not change the script.!!

@@ -7,3 +7,26 @@ www.pasaronlen.com
 
 # INDOcDeFace
 
+## Pengertian Deface 
+Teknologi yang berkembang begitu cepat memang dirasa membuat semuanya menjadi mudah, namun hal itu juga menimbulkan dampak yang cukup banyak bagi kehidupan sendiri. Misalkan saja seperti kejahatan dunia maya yang terus berkembang dari era ke era, bahkan dengan metode yang berbeda-beda.
+
+Kejahatan dunia maya tentu saja sifatnya merugikan, tidak hanya bisa mencuri privasi seseorang saja tapi juga dapat mengganggu website milik orang lain; misalnya seperti melakukan web deface.
+## Tujuan Deface
+Setiap peretas tentu memiliki alasan dan tujuan masing-masing dibalik serangan deface yang mereka lakukan. Misalkan saja karena iseng, karena pelaku tidak suka dengan website bersangkutan, karena ingin balas dendam, ingin dianggap hebat, ingin menguji kemampuan dan lain sebagainya. Alasan-alasan tersebut bisa saja menjadi motivasi utamanya, namun yang pasti aktivitas deface sendiri tentu merugikan pihak lain dan hal ini sudah bisa dianggap sebagai salah satu kejahatan dunia maya.
+
+Namun selain itu ternyata ada sebagian pihak yang mengatakan bahwa serangan deface tidak selamanya mempunyai sifat merusak atau merugikan. Karena dalam beberapa kasus tertentu, aktivitas deface justru ditujukan untuk memberitahu kepada pemilik website bahwa ada celah keamanan dari website-nya yang harus ditingkatkan lagi.
+
+### Use Termux 
+
+```fish
+pkg update && upgrade
+pkg install python2
+pkg install wget
+pkg install git
+git clone https://github.com/INDOnimous/INDOcDeFace
+cd INDOcDeFace 
+python2 INDOcDeface.py
+```
+
+## Thank you for using this tools...
+### By INDOnimous

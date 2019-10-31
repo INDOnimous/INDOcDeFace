@@ -7,6 +7,14 @@ www.pasaronlen.com
 
 # INDOcDeFace
 
+> Also in&nbsp;
+> <a href="docs/ru-RU/README.md">🇷🇺</a>
+> <a href="docs/zh-CN/README.md">🇨🇳</a>
+> <a href="docs/uk-UA/README.md">🇺🇦</a>
+> <a href="docs/pt-BR/README.md">🇧🇷</a>
+> <a href="Soca/in-DO/README.md">🇮🇩</a>
+
+
 ## Pengertian Deface 
 Teknologi yang berkembang begitu cepat memang dirasa membuat semuanya menjadi mudah, namun hal itu juga menimbulkan dampak yang cukup banyak bagi kehidupan sendiri. Misalkan saja seperti kejahatan dunia maya yang terus berkembang dari era ke era, bahkan dengan metode yang berbeda-beda.
 

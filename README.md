@@ -42,7 +42,7 @@ python2 INDOcDeface.py
 ```
 
 
-[![Watch the video](https://g
+[![Watc
 
 
 

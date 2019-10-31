@@ -42,7 +42,7 @@ python2 INDOcDeface.py
 ```
 
 
-[![Watch the video](https://github.com/INDOnimous/INDOclon/blob/master/IMG/Screenshot_2019-10-31-09-33-22-505_com.google.android.youtube.png)](https://youtu.be/nFjPO92DBWU)
+[![Watch the video](https://g
 
 
 

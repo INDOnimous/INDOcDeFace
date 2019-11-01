@@ -40,9 +40,9 @@ git clone https://github.com/INDOnimous/INDOcDeFace
 cd INDOcDeFace 
 python2 INDOcDeface.py
 ```
+# Tonton Videonya
 
-
-[![Watc
+[![Watch the video](https://github.com/INDOnimous/INDOclon/blob/master/IMG/Screenshot_2019-11-01-10-55-31-889_com.mi.android.globalFileexplorer.png)](https://youtu.be/p1A5XzISkWA)
 
 
 
